@@ -54,6 +54,17 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bernardo1806&show_icons=true&theme=tokyonight)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo1806&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
 ## 🌍 Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/bernardo-soares-machado-3a9835381)  
 - 📧 **bernardo.soares1806@gmail.com**
