@@ -42,6 +42,7 @@
 - **Site 3** – Projeto do **4º período**, utilizando **Node.js, React, HTML, CSS, JavaScript e Bootstrap**.  
   O objetivo era criar um site sobre **Pokémon**, consumindo uma **API de Pokémon**.  
   👉 [Acessar Site 3](https://bernardo1806.github.io/FrontEnd_Final)  
+  OBS: Para logar use: Usuário e Senha: **user**, caso quiser ver o json logue com Usuário e Senha: **admin**
 
 ---
 
